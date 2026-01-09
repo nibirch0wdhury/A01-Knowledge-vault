@@ -182,3 +182,42 @@ h4 {
     color: #627382;
     font-size: 16px;
 }
+
+.brain{
+    margin: 120px;
+    display: flex;
+}
+
+.brain-text{
+    margin-left: 60px;
+    margin-top: 105px;
+    margin-bottom: 105px;
+    text-align: left;
+}
+
+.brain-text h3{
+    text-align: left;
+    color: #30B868;
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.brain-text h1{
+    color: #001931;
+    font-size: 48px;
+    width: 500px;
+    line-height: 58px;
+    font-weight: 700;
+    letter-spacing: 0%;
+}
+
+.brain-text-p{
+    margin-top: 16px;
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    line-height: 20px;
+    margin-bottom: 40px;
+}
