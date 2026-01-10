@@ -188,10 +188,10 @@ h4 {
 }
 
 .brain {
-    margin: 120px auto;
+    margin: 120px auto 120px 290px ;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    /* align-items: center; */
+    /* justify-content: center; */
 }
 
 .brain-text {
@@ -241,7 +241,7 @@ h4 {
 
 .cta-section {
     background-color: #f7f6f2;
-    margin: 0px 120px 120px 120px;
+    margin: 0px 290px 120px 290px;
     padding: 80px 16px;
     display: flex;
     justify-content: center;
